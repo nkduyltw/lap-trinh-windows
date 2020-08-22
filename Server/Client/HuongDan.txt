@@ -1,0 +1,8 @@
+﻿                                                        Hướng dẫn
+Bước 1: Tạo tài khoản rồi ấn đăng nhập, nếu đã có người có tài khoản như trên thì sẽ xuất thông báo lỗi, nếu toàn khoản chưa có ai dùng thì tài khoản bạn sẽ hợp lệ
+Bước 2:Nhấn kết nối để kết nối với MC để được gởi câu hỏi bạn sẽ có 60s để trả lời
+Nếu bạn trả lời đúng bạn sẽ được mốc tền thưởng mới
+Nếu trả lời sai bạn sẽ  quay xuống mốc mà chương trình đã định
+Bên cạnh đó bạn cũng có 2 sự trợ giúp nếu như bạn gặp khó khăn như: Gọi Điện cho nguồi thân,Tư vấn khán giả trong trường quay
+Bước 3:Nếu như bạn hoàn thành hết tất cả câu hỏi của chương trình thì chúc mừng bạn đã trở thành triệu phú
+Bước 4:Nhấn Nút Thoát nếu như bạn muốn ngừng chơi để nhận được giải thưởng từ chương trình .Cảm ơn bạn đã đọc hướng dẫn

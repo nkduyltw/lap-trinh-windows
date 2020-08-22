@@ -1,0 +1,114 @@
+C:\Users\Khanh Duy\Desktop\Server\MC\bin\Debug\MC.exe.config
+C:\Users\Khanh Duy\Desktop\Server\MC\obj\Debug\MC.MC.resources
+C:\Users\Khanh Duy\Desktop\Server\MC\obj\Debug\MC.Properties.Resources.resources
+C:\Users\Khanh Duy\Desktop\Server\MC\obj\Debug\MC.csproj.GenerateResource.Cache
+C:\Users\Khanh Duy\Desktop\Server\MC\bin\Debug\MC.exe
+C:\Users\Khanh Duy\Desktop\Server\MC\bin\Debug\MC.pdb
+C:\Users\Khanh Duy\Desktop\Server\MC\obj\Debug\MC.exe
+C:\Users\Khanh Duy\Desktop\Server\MC\obj\Debug\MC.pdb
+C:\Users\Khanh Duy\Desktop\Server\MC\obj\Debug\MC.csprojResolveAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\bin\Debug\MC.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\bin\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\bin\Debug\MC.pdb
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.MC.resources
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.pdb
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\MC\obj\Debug\MC.MCChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\bin\Debug\MC.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\bin\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\bin\Debug\MC.pdb
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.MC.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.MCChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\MC\obj\Debug\MC.pdb
+E:\Lập Trình Windows\demo04\Server\MC\bin\Debug\MC.exe.config
+E:\Lập Trình Windows\demo04\Server\MC\bin\Debug\MC.exe
+E:\Lập Trình Windows\demo04\Server\MC\bin\Debug\MC.pdb
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.MC.resources
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.MCChatRoom.resources
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.Properties.Resources.resources
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.exe
+E:\Lập Trình Windows\demo04\Server\MC\obj\Debug\MC.pdb
+C:\Users\Khanh Duy\Desktop\demo04\Server\MC\bin\Debug\MC.exe.config
+C:\Users\Khanh Duy\Desktop\demo04\Server\MC\obj\Debug\MC.exe
+C:\Users\Khanh Duy\Desktop\demo04\Server\MC\obj\Debug\MC.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\bin\Debug\MC.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\bin\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\bin\Debug\MC.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.MC.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.MCChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\MC\obj\Debug\MC.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\bin\Debug\MC.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\bin\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\bin\Debug\MC.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.MC.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.MCChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\MC\obj\Debug\MC.pdb
+E:\Lập Trình Windows\demo06\Server\MC\bin\Debug\MC.exe.config
+E:\Lập Trình Windows\demo06\Server\MC\bin\Debug\MC.exe
+E:\Lập Trình Windows\demo06\Server\MC\bin\Debug\MC.pdb
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.MC.resources
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.MCChatRoom.resources
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.Properties.Resources.resources
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.exe
+E:\Lập Trình Windows\demo06\Server\MC\obj\Debug\MC.pdb
+D:\win2k3\Compressed\demo06\Server\MC\bin\Debug\MC.exe.config
+D:\win2k3\Compressed\demo06\Server\MC\bin\Debug\MC.exe
+D:\win2k3\Compressed\demo06\Server\MC\bin\Debug\MC.pdb
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.MC.resources
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.MCChatRoom.resources
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.Properties.Resources.resources
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.exe
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.pdb
+D:\win2k3\Compressed\demo06\Server\MC\obj\Debug\MC.LiveStream.resources
+D:\Năm 2\demo07\Server\MC\bin\Debug\MC.exe.config
+D:\Năm 2\demo07\Server\MC\bin\Debug\MC.exe
+D:\Năm 2\demo07\Server\MC\bin\Debug\MC.pdb
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.LiveStream.resources
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.MC.resources
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.MCChatRoom.resources
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.Properties.Resources.resources
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.exe
+D:\Năm 2\demo07\Server\MC\obj\Debug\MC.pdb
+D:\demo07\Server\MC\bin\Debug\MC.exe.config
+D:\demo07\Server\MC\bin\Debug\MC.exe
+D:\demo07\Server\MC\bin\Debug\MC.pdb
+D:\demo07\Server\MC\obj\Debug\MC.csprojAssemblyReference.cache
+D:\demo07\Server\MC\obj\Debug\MC.LiveStream.resources
+D:\demo07\Server\MC\obj\Debug\MC.MC.resources
+D:\demo07\Server\MC\obj\Debug\MC.MCChatRoom.resources
+D:\demo07\Server\MC\obj\Debug\MC.Properties.Resources.resources
+D:\demo07\Server\MC\obj\Debug\MC.csproj.GenerateResource.cache
+D:\demo07\Server\MC\obj\Debug\MC.csproj.CoreCompileInputs.cache
+D:\demo07\Server\MC\obj\Debug\MC.exe
+D:\demo07\Server\MC\obj\Debug\MC.pdb

@@ -1,0 +1,127 @@
+C:\Users\Khanh Duy\Desktop\Server\Client\bin\Debug\Client.exe.config
+C:\Users\Khanh Duy\Desktop\Server\Client\bin\Debug\Client.exe
+C:\Users\Khanh Duy\Desktop\Server\Client\bin\Debug\Client.pdb
+C:\Users\Khanh Duy\Desktop\Server\Client\obj\Debug\Client.Client.resources
+C:\Users\Khanh Duy\Desktop\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Khanh Duy\Desktop\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Khanh Duy\Desktop\Server\Client\obj\Debug\Client.exe
+C:\Users\Khanh Duy\Desktop\Server\Client\obj\Debug\Client.pdb
+C:\Users\Khanh Duy\Desktop\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\bin\Debug\Client.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\bin\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\bin\Debug\Client.pdb
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.Client.resources
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.pdb
+E:\C#\Đồ Án Cuối Kì\Fix01\Server\Client\obj\Debug\Client.ChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\bin\Debug\Client.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\bin\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\bin\Debug\Client.pdb
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.ChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.Client.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.pdb
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\Client\obj\Debug\Client.Instruction.resources
+E:\Lập Trình Windows\demo04\Server\Client\bin\Debug\Client.exe.config
+E:\Lập Trình Windows\demo04\Server\Client\bin\Debug\Client.exe
+E:\Lập Trình Windows\demo04\Server\Client\bin\Debug\Client.pdb
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.ChatRoom.resources
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.Client.resources
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.Instruction.resources
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.exe
+E:\Lập Trình Windows\demo04\Server\Client\obj\Debug\Client.pdb
+C:\Users\truon\Desktop\demo04\Server\Client\bin\Debug\Client.exe.config
+C:\Users\truon\Desktop\demo04\Server\Client\bin\Debug\Client.exe
+C:\Users\truon\Desktop\demo04\Server\Client\bin\Debug\Client.pdb
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.ChatRoom.resources
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.Client.resources
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.Instruction.resources
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.exe
+C:\Users\truon\Desktop\demo04\Server\Client\obj\Debug\Client.pdb
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\bin\Debug\Client.exe.config
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.exe
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.pdb
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\bin\Debug\Client.exe
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\bin\Debug\Client.pdb
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.ChatRoom.resources
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.Client.resources
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.Instruction.resources
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Khanh Duy\Desktop\demo04\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\bin\Debug\Client.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\bin\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\bin\Debug\Client.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.ChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.Client.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.Instruction.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\Client\obj\Debug\Client.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\bin\Debug\Client.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\bin\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\bin\Debug\Client.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.ChatRoom.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.Client.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.Instruction.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo05\Server\Client\obj\Debug\Client.pdb
+E:\Lập Trình Windows\demo06\Server\Client\bin\Debug\Client.exe.config
+E:\Lập Trình Windows\demo06\Server\Client\bin\Debug\Client.exe
+E:\Lập Trình Windows\demo06\Server\Client\bin\Debug\Client.pdb
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.ChatRoom.resources
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.Client.resources
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.Instruction.resources
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.exe
+E:\Lập Trình Windows\demo06\Server\Client\obj\Debug\Client.pdb
+D:\win2k3\Compressed\demo06\Server\Client\bin\Debug\Client.exe.config
+D:\win2k3\Compressed\demo06\Server\Client\bin\Debug\Client.exe
+D:\win2k3\Compressed\demo06\Server\Client\bin\Debug\Client.pdb
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.ChatRoom.resources
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.Client.resources
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.Instruction.resources
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.Properties.Resources.resources
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.exe
+D:\win2k3\Compressed\demo06\Server\Client\obj\Debug\Client.pdb
+D:\Năm 2\demo07\Server\Client\bin\Debug\Client.exe.config
+D:\Năm 2\demo07\Server\Client\bin\Debug\Client.exe
+D:\Năm 2\demo07\Server\Client\bin\Debug\Client.pdb
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.ChatRoom.resources
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.Client.resources
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.Instruction.resources
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.exe
+D:\Năm 2\demo07\Server\Client\obj\Debug\Client.pdb

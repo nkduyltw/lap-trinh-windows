@@ -1,0 +1,39 @@
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\bin\Debug\ServerVision02.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\bin\Debug\ServerVision02.exe
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\bin\Debug\ServerVision02.pdb
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\obj\Debug\ServerVision02.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\obj\Debug\ServerVision02.Form1.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\obj\Debug\ServerVision02.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\obj\Debug\ServerVision02.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\obj\Debug\ServerVision02.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\obj\Debug\ServerVision02.exe
+E:\C#\Đồ Án Cuối Kì\Fix02\Server\ServerVision02\obj\Debug\ServerVision02.pdb
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\bin\Debug\ServerVision02.exe.config
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\obj\Debug\ServerVision02.exe
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\obj\Debug\ServerVision02.pdb
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\bin\Debug\ServerVision02.exe
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\bin\Debug\ServerVision02.pdb
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\obj\Debug\ServerVision02.csprojResolveAssemblyReference.cache
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\obj\Debug\ServerVision02.Form1.resources
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\obj\Debug\ServerVision02.Properties.Resources.resources
+C:\Users\Khanh Duy\Desktop\demo04\Server\ServerVision02\obj\Debug\ServerVision02.csproj.GenerateResource.Cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\bin\Debug\ServerVision02.exe.config
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\bin\Debug\ServerVision02.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\bin\Debug\ServerVision02.pdb
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\obj\Debug\ServerVision02.csprojAssemblyReference.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\obj\Debug\ServerVision02.Form1.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\obj\Debug\ServerVision02.Properties.Resources.resources
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\obj\Debug\ServerVision02.csproj.GenerateResource.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\obj\Debug\ServerVision02.csproj.CoreCompileInputs.cache
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\obj\Debug\ServerVision02.exe
+E:\C#\Đồ Án Cuối Kì\Fix03\demo04\Server\ServerVision02\obj\Debug\ServerVision02.pdb
+D:\demo07\Server\ServerVision02\bin\Debug\ServerVision02.exe.config
+D:\demo07\Server\ServerVision02\bin\Debug\ServerVision02.exe
+D:\demo07\Server\ServerVision02\bin\Debug\ServerVision02.pdb
+D:\demo07\Server\ServerVision02\obj\Debug\ServerVision02.csprojAssemblyReference.cache
+D:\demo07\Server\ServerVision02\obj\Debug\ServerVision02.Form1.resources
+D:\demo07\Server\ServerVision02\obj\Debug\ServerVision02.Properties.Resources.resources
+D:\demo07\Server\ServerVision02\obj\Debug\ServerVision02.csproj.GenerateResource.cache
+D:\demo07\Server\ServerVision02\obj\Debug\ServerVision02.csproj.CoreCompileInputs.cache
+D:\demo07\Server\ServerVision02\obj\Debug\ServerVision02.exe
+D:\demo07\Server\ServerVision02\obj\Debug\ServerVision02.pdb
